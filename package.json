@@ -1,12 +1,12 @@
 {
-  "name": "dat-storage",
-  "version": "1.1.1",
-  "description": "Dat specific storage provider for Hyperdrive",
+  "name": "dweb-storage",
+  "version": "1.0.0",
+  "description": "dWeb storage library.",
   "main": "index.js",
   "dependencies": {
     "append-tree": "^2.0.5",
-    "dat-secret-storage": "^4.0.0",
-    "hyperdrive": "^9.1.1",
+    "dweb-secret-storage": "^1.0.0",
+    "dwebfs": "^1.0.0",
     "multi-random-access": "^2.0.3",
     "random-access-file": "^2.0.1"
   },
