@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/datproject/dat-storage.git"
+    "url": "https://github.com/datproject/dweb-storage.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/datproject/dat-storage/issues"
+    "url": "https://github.com/datproject/dweb-storage/issues"
   },
-  "homepage": "https://github.com/datproject/dat-storage"
+  "homepage": "https://github.com/datproject/dweb-storage"
 }
